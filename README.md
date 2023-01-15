@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/87234097/212570833-6fcc94c2-12ca-491a-bc1a-8721925fb058.png"  width="400" height="400" alt="Gif"/> </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/87234097/212570833-6fcc94c2-12ca-491a-bc1a-8721925fb058.png"> </p>
 
 <h1 align="center">Hi 👋🏼, I'm Ali</h1>
 <h3 align="center">A frontend developer from Iran</h3>
