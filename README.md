@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋🏼, I'm Ali</h1>
 <h3 align="center">A frontend developer from Iran</h3>
 
-- 🔭 I’m currently working on [**My discord bot**](https://dsc.gg/mr420)
-
-- 📫 How to reach me **ALIEN#0028 in discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
