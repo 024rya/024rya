@@ -1,4 +1,4 @@
-<p align="center"><img src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif"  width="400" height="400" alt="Gif"/> </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/87234097/212570833-6fcc94c2-12ca-491a-bc1a-8721925fb058.png"  width="400" height="400" alt="Gif"/> </p>
 
 <h1 align="center">Hi 👋🏼, I'm Ali</h1>
 <h3 align="center">A frontend developer from Iran</h3>
@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87234097/212570833-6fcc94c2-12ca-491a-bc1a-8721925fb058.png" alt="8UzUbcGkSs"/></a><a href="https://instagram.com/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="024k4"/></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="024k4"/></a>
 
 </p>
 
