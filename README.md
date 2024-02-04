@@ -1,1 +1,1 @@
-![m](https://github.com/MianajiAli/MianajiAli/assets/87234097/092a7adc-73cc-49bc-ae07-e172e98a1328)
+![m](https://github.com/MianajiAli/MianajiAli/assets/87234097/ec820caf-b9a3-4983-a3a0-f8dd711ec317)
