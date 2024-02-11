@@ -6,7 +6,7 @@
         I'm Ali<br>
     </i><br>
     <h2 align="center">Request a Service</h2>
-    <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:fujicodes@proton.me">E-Mail</a> to see how I can help you.</p><br />
+    <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:me3hki@gmail.com">E-Mail</a> to see how I can help you.</p><br />
 </p>
 
 <p align="center">
