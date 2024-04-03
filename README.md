@@ -3,5 +3,5 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Ali<br>
+        Hi, I'm Ali Mianaji. A passionate Front-end React Developer based in Zanjan, Iran. 📍
 
